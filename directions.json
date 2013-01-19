@@ -1,0 +1,170 @@
+{
+    "routes": [
+        {
+            "overview_polyline": {
+                "levels": "B?@??@??@??@B", 
+                "points": "qzxnE~qvpUyC|FeYdg@sHiHuOeNK[{LjToDtDsH`Ha@a@mAg@iN{HaAtC"
+            }, 
+            "warnings": [], 
+            "bounds": {
+                "northeast": {
+                    "lat": 34.064500000000002, 
+                    "lng": -118.24944000000001
+                }, 
+                "southwest": {
+                    "lat": 34.047289999999997, 
+                    "lng": -118.25886
+                }
+            }, 
+            "waypoint_order": [], 
+            "summary": "W 5th St and W 2nd St", 
+            "copyrights": "Map data \u00a92011 Google", 
+            "legs": [
+                {
+                    "distance": {
+                        "text": "1.7 mi", 
+                        "value": 2713
+                    }, 
+                    "end_address": "1355 W Court St, Los Angeles, CA 90026, USA", 
+                    "via_waypoint": [], 
+                    "start_address": "157-199 W 5th St, Los Angeles, CA 90013, USA", 
+                    "start_location": {
+                        "lat": 34.047289999999997, 
+                        "lng": -118.24944000000001
+                    }, 
+                    "steps": [
+                        {
+                            "html_instructions": "Head <b>northwest</b> on <b>W 5th St</b> toward <b>S Spring St</b>", 
+                            "distance": {
+                                "text": "0.6 mi", 
+                                "value": 900
+                            }, 
+                            "travel_mode": "DRIVING", 
+                            "start_location": {
+                                "lat": 34.047289999999997, 
+                                "lng": -118.24944000000001
+                            }, 
+                            "polyline": {
+                                "levels": "B?B", 
+                                "points": "qzxnE~qvpUyC|FeYdg@"
+                            }, 
+                            "duration": {
+                                "text": "2 mins", 
+                                "value": 131
+                            }, 
+                            "end_location": {
+                                "lat": 34.052250000000001, 
+                                "lng": -118.25714000000001
+                            }
+                        }, 
+                        {
+                            "html_instructions": "Turn <b>right</b> onto <b>S Figueroa St</b>", 
+                            "distance": {
+                                "text": "0.4 mi", 
+                                "value": 606
+                            }, 
+                            "travel_mode": "DRIVING", 
+                            "start_location": {
+                                "lat": 34.052250000000001, 
+                                "lng": -118.25714000000001
+                            }, 
+                            "polyline": {
+                                "levels": "B??B", 
+                                "points": "qyynEbbxpUsHiHuOeNK["
+                            }, 
+                            "duration": {
+                                "text": "1 min", 
+                                "value": 87
+                            }, 
+                            "end_location": {
+                                "lat": 34.056520000000013, 
+                                "lng": -118.25308
+                            }
+                        }, 
+                        {
+                            "html_instructions": "Turn <b>left</b> onto <b>W 2nd St</b>", 
+                            "distance": {
+                                "text": "0.5 mi", 
+                                "value": 747
+                            }, 
+                            "travel_mode": "DRIVING", 
+                            "start_location": {
+                                "lat": 34.056520000000013, 
+                                "lng": -118.25308
+                            }, 
+                            "polyline": {
+                                "levels": "B??B", 
+                                "points": "gtznEvhwpU{LjToDtDsH`H"
+                            }, 
+                            "duration": {
+                                "text": "1 min", 
+                                "value": 83
+                            }, 
+                            "end_location": {
+                                "lat": 34.061160000000001, 
+                                "lng": -118.25886
+                            }
+                        }, 
+                        {
+                            "html_instructions": "Turn <b>right</b> onto <b>N Toluca St</b>", 
+                            "distance": {
+                                "text": "0.2 mi", 
+                                "value": 381
+                            }, 
+                            "travel_mode": "DRIVING", 
+                            "start_location": {
+                                "lat": 34.061160000000001, 
+                                "lng": -118.25886
+                            }, 
+                            "polyline": {
+                                "levels": "B??B", 
+                                "points": "gq{nEzlxpUa@a@mAg@iN{H"
+                            }, 
+                            "duration": {
+                                "text": "1 min", 
+                                "value": 64
+                            }, 
+                            "end_location": {
+                                "lat": 34.064169999999997, 
+                                "lng": -118.25691
+                            }
+                        }, 
+                        {
+                            "html_instructions": "Turn <b>left</b> onto <b>W Court St</b><div style=\"font-size:0.9em\">Destination will be on the left</div>", 
+                            "distance": {
+                                "text": "259 ft", 
+                                "value": 79
+                            }, 
+                            "travel_mode": "DRIVING", 
+                            "start_location": {
+                                "lat": 34.064169999999997, 
+                                "lng": -118.25691
+                            }, 
+                            "polyline": {
+                                "levels": "BB", 
+                                "points": "ad|nEt`xpUaAtC"
+                            }, 
+                            "duration": {
+                                "text": "1 min", 
+                                "value": 18
+                            }, 
+                            "end_location": {
+                                "lat": 34.064500000000002, 
+                                "lng": -118.25766
+                            }
+                        }
+                    ], 
+                    "duration": {
+                        "text": "6 mins", 
+                        "value": 383
+                    }, 
+                    "end_location": {
+                        "lat": 34.064500000000002, 
+                        "lng": -118.25766
+                    }
+                }
+            ]
+        }
+    ], 
+    "status": "OK"
+}
